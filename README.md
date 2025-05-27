@@ -1,1 +1,1 @@
-# figma-clone
+# figma-demo
